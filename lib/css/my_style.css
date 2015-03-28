@@ -1,0 +1,14 @@
+#slideTweets { 
+    height: 232px; 
+    width: 50%; 
+    margin: 10px auto !important;
+}
+
+#slideTweets div { 
+    padding: 15px;
+    border: 1px solid #CCC;
+    background-color: #EEE;
+    height: 200px;
+    width: 90%;
+    text-align: center;
+}
